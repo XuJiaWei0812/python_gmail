@@ -15,4 +15,4 @@
 ## 使用方法
 
 ```bash
-python send_email.py
+python python_gmail.py
